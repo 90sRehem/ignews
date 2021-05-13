@@ -43,7 +43,7 @@
 ## ⚙️ Instalação
 ```
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/GBDev13/ignews.git
+$ git clone https://github.com/90sRehem/ignews.git
 ```
 
 ```
@@ -66,5 +66,5 @@ $ yarn start
 
 ---
 
-<p align="center">Feito com 💙 por Gabriel Borges</p>
+<p align="center">Feito com 💙 por Jonathan Rehem</p>
 

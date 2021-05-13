@@ -66,5 +66,5 @@ $ yarn start
 
 ---
 
-<p align="center">Feito com 💙 por Gabriel Borges</p>
+<p align="center">Feito com 💙 por Jonathan Rehem</p>
 
